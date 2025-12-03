@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvad er risikoen for social udstødelse for handicappede i EU?",
+  "subtitle": "I 2024 var 28,7 % af handicappede i EU i risiko for fattigdom eller social udstødelse, sammenlignet med 17,9 % af ikke-handicappede. Tallet var 30,4 i 2016.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Dette datasæt omfatter kun personer på 16 år eller ældre med en eller anden form for eller alvorlig aktivitetsbegrænsning. Dataene for Luxembourg er fra 2022.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
-  "tooltipExtraInfoLabel": "Klik her"
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "af mennesker med handicap"
 }
