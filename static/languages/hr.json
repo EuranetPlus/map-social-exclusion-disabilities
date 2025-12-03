@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki je rizik socijalne isključenosti za osobe s invaliditetom u EU?",
+  "subtitle": "U 2024. godini 28,7% osoba s invaliditetom u EU bilo je u riziku od siromaštva ili socijalne isključenosti, u usporedbi sa 17,9% osoba bez invaliditeta. Ta je brojka u 2016. godini iznosila 30,4.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ovaj skup podataka uključuje samo osobe u dobi od 16 godina ili starije s određenim ili teškim ograničenjem aktivnosti. Podaci za Luksemburg su iz 2022. godine.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2024.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "osoba s invaliditetom"
 }
