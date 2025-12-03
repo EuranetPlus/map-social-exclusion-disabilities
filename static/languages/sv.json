@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Vilken är risken för social utestängning för funktionshindrade personer i EU?",
+  "subtitle": "År 2024 riskerade 28,7 % av personer med funktionsnedsättning i EU fattigdom eller social utestängning, jämfört med 17,9 % av personer utan funktionsnedsättning. Siffran låg på 30,4 år 2016.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna datauppsättning inkluderar endast personer i åldern 16 år eller äldre med någon eller allvarlig aktivitetsbegränsning. Uppgifterna för Luxemburg är från 2022.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "av personer med funktionsnedsättning"
 }
