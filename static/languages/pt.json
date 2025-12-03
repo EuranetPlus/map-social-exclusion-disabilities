@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual é o risco de exclusão social para pessoas com deficiência na UE?",
+  "subtitle": "Em 2024, 28,7% das pessoas com deficiência na UE estavam em risco de pobreza ou exclusão social, em comparação com 17,9% das pessoas sem deficiência. Em 2016, esse número era de 30,4%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Este conjunto de dados inclui apenas pessoas com 16 anos ou mais que apresentem alguma ou grave limitação de atividade. Os dados referentes a Luxemburgo são de 2022.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "de pessoas com deficiência"
 }
