@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Milline on puuetega inimeste sotsiaalse tõrjutuse oht ELis?",
+  "subtitle": "2024. aastal oli 28,7% puuetega inimestest ELis vaesuse või sotsiaalse tõrjutuse ohus, võrreldes 17,9%-ga puueteta inimestest. 2016. aastal oli see näitaja 30,4%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "See andmestik hõlmab ainult 16-aastaseid ja vanemaid inimesi, kellel on teatav või raske tegevuspiirang. Luksemburgi andmed pärinevad 2022. aastast.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "puuetega inimeste"
 }
