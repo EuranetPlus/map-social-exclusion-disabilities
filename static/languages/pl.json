@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jakie jest ryzyko wykluczenia społecznego osób niepełnosprawnych w UE?",
+  "subtitle": "W 2024 roku 28,7% osób niepełnosprawnych w UE było zagrożonych ubóstwem lub wykluczeniem społecznym, w porównaniu z 17,9% osób pełnosprawnych. W 2016 roku odsetek ten wynosił 30,4%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Ten zbiór danych obejmuje wyłącznie osoby w wieku 16 lat i starsze z pewnymi lub poważnymi ograniczeniami aktywności. Dane dla Luksemburga pochodzą z 2022 roku.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "osób niepełnosprawnych"
 }
