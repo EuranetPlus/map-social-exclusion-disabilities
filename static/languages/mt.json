@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'inhu r-riskju ta' esklużjoni soċjali għal persuni b'diżabilità fl-UE?",
+  "subtitle": "Fl-2024, 28.7% tal-persuni b'diżabilità fl-UE kienu f'riskju ta' faqar jew esklużjoni soċjali, meta mqabbla ma' 17.9% tal-persuni mingħajr diżabilità. Iċ-ċifra kienet ta' 30.4 fl-2016.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Dan is-sett ta' dejta jinkludi biss persuni li għandhom 16-il sena jew aktar b'xi limitazzjoni jew limitazzjoni severa fl-attività. Id-dejta għal-Lussemburgu hija mill-2022.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "ta’ persuni b’diżabilità"
 }
