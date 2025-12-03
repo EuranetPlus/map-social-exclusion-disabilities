@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "What is the risk of social exclusion for disabled people in the EU?",
+  "subtitle": "In 2024, 28.7% of disabled people in the EU were at risk of poverty or social exclusion, compared to 17.9% of non-disabled people. The figure stood at 30.4 in 2016.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "This dataset only includes people aged 16 years or older with some or severe activity limitation. The data for Luxembourg is from 2022.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of people with disabilities"
 }
