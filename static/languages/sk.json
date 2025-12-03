@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aké je riziko sociálneho vylúčenia pre ľudí so zdravotným postihnutím v EÚ?",
+  "subtitle": "V roku 2024 bolo 28,7 % ľudí so zdravotným postihnutím v EÚ ohrozených chudobou alebo sociálnym vylúčením v porovnaní so 17,9 % ľudí bez zdravotného postihnutia. V roku 2016 to bolo 30,4 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Tento súbor údajov zahŕňa iba osoby vo veku 16 rokov a staršie s určitým alebo závažným obmedzením aktivity. Údaje za Luxembursko sú z roku 2022.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "ľudí so zdravotným postihnutím"
 }
