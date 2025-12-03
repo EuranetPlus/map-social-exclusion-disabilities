@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mikä on vammaisten sosiaalisen syrjäytymisen riski EU:ssa?",
+  "subtitle": "Vuonna 2024 28,7 % vammaisista EU:ssa oli köyhyys- tai sosiaalisen syrjäytymisen riskissä, kun vammattomien osuus oli 17,9 %. Vuonna 2016 luku oli 30,4 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tämä aineisto sisältää vain 16-vuotiaat ja sitä vanhemmat henkilöt, joilla on jonkin verran tai vakavaa toimintakyvyn rajoitusta. Luxemburgin tiedot ovat vuodelta 2022.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "vammaisten ihmisten"
 }
