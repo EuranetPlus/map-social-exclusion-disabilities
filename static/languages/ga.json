@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cad é an baol eisiaimh shóisialta do dhaoine faoi mhíchumas san AE?",
+  "subtitle": "Sa bhliain 2024, bhí 28.7% de dhaoine faoi mhíchumas san AE i mbaol bochtaineachta nó eisiaimh shóisialta, i gcomparáid le 17.9% de dhaoine nach raibh faoi mhíchumas. Bhí an figiúr ag 30.4 sa bhliain 2016.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Ní chuimsíonn an tacar sonraí seo ach daoine atá 16 bliana d'aois nó níos sine a bhfuil srian gníomhaíochta éigin nó dian orthu. Is ón mbliain 2022 atá na sonraí do Lucsamburg.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "daoine faoi mhíchumas"
 }
