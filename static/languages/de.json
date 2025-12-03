@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Welches Risiko der sozialen Ausgrenzung besteht für Menschen mit Behinderungen in der EU?",
+  "subtitle": "Im Jahr 2024 waren 28,7 % der Menschen mit Behinderung in der EU von Armut oder sozialer Ausgrenzung bedroht, verglichen mit 17,9 % der Menschen ohne Behinderung. Im Jahr 2016 lag dieser Wert bei 30,4 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Dieser Datensatz umfasst ausschließlich Personen ab 16 Jahren mit leichten oder schweren Aktivitätseinschränkungen. Die Daten für Luxemburg stammen aus dem Jahr 2022.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "Menschen mit Behinderungen"
 }
