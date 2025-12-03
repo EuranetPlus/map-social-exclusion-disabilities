@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quels sont les risques d'exclusion sociale pour les personnes handicapées dans l'UE ?",
+  "subtitle": "En 2024, 28,7 % des personnes handicapées dans l'UE étaient menacées de pauvreté ou d'exclusion sociale, contre 17,9 % des personnes non handicapées. Ce chiffre s'élevait à 30,4 % en 2016.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cet ensemble de données ne concerne que les personnes âgées de 16 ans et plus présentant une limitation d'activité, légère ou sévère. Les données relatives au Luxembourg datent de 2022.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "des personnes handicapées"
 }
