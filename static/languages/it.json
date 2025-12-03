@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Qual è il rischio di esclusione sociale per le persone disabili nell'UE?",
+  "subtitle": "Nel 2024, il 28,7% delle persone con disabilità nell'UE era a rischio di povertà o esclusione sociale, rispetto al 17,9% delle persone non con disabilità. Nel 2016, la percentuale era del 30,4%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Questo set di dati include solo persone di età pari o superiore a 16 anni con limitazioni fisiche o gravi. I dati per il Lussemburgo risalgono al 2022.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "delle persone con disabilità"
 }
